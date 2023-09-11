@@ -4,7 +4,7 @@ This repository contains projects about applied statistical learning in polymer 
 
 Just refer to the results on multiple linear regression and logistic regression. The regression diagnostic and the Wald test reveal the significance of the parameters.
 
-Another important note on polynomial regression is that while we can get high r-squared values, but the risk of overfitting is extremely high. 
+Another important note on polynomial regression is that while we can get high r-squared values, but the risk of overfitting is extremely high. We can see that the p-value for each extended polynomial order is very high. 
 
 The data used in this project is less than 50 observations, the ratio of observations to the number of dependent variables is in the single digits (33/8). So it's wise enough if we don't try to extrapolate the model!
  
